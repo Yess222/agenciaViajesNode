@@ -1,0 +1,7 @@
+Consideraciones Deployment
+    - Los Proyectos de Node / Express deberán ser publicados en un servidor que soporte esta plataforma.
+    - La base de datos también deberá publicarse en un servidor ya que para que los usuarios puedan acceder a ella, se necesita un acceso sea publico.
+    - Es necesario realizar algunos ajustes a nuestro proyecto antes de realizar el deployment.
+Variables de Entorno
+    - Las Variables de Entorno te permiten añadir valores para diferentes entornos - Desarrollo o Producción.
+    - Ademas de que evitan que valores sensibles sean almacenadas en Github o que se puedan acceder de forma muy sencilla.
